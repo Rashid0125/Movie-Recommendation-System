@@ -1,4 +1,5 @@
 # Movie Recommendation System with Machine Learning
+![image](https://user-images.githubusercontent.com/102589680/184669314-9bca02a7-226e-43f1-b836-c611c483ab63.png)
 
 Recommendation systems are among the most popular applications of data science. They are used to predict the Rating or Preference that a user would give to an item.
 
